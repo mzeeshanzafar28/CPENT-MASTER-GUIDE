@@ -132,17 +132,4 @@ A comprehensive, modular CPENT reference built from personal notes, official EC-
 
 ---
 
-## Credits & Sources
-
-Built from:
-- EC-Council official CPENT course material and syllabus
-- [OffSecExams CPENT v2 AI / LPT Master cheat sheet](https://offsecexams.com/cheatsheets/cpent-v2-ai--lpt-master-exam---guided-by-redblock)
-- [zullunatal.medium.com — Prepare for LPT, not CPENT](https://zullunatal.medium.com/prepare-for-lpt-not-cpent-7a88e003e2a7)
-- Community repositories: [abimelsbk/CPENT-Crash-Course](https://github.com/abimelsbk/CPENT-Crash-Course), [jojin1709/CPENT-AI-Study-Guide](https://github.com/jojin1709/CPENT-AI-Study-Guide), [Mr-Infect/CPENT-notes-2026](https://github.com/Mr-Infect/CPENT-notes-2026), [Mr-Infect/CPENT-AI-2026-cheetsheet](https://github.com/Mr-Infect/CPENT-AI-2026-cheetsheet)
-- Author's own [CEH Practical CheatSheet](https://github.com/mzeeshanzafar28/CEH-Practical-CheatSheet)
-- Community CPENT exam-experience write-ups on Medium
-- Consolidated from 4 independent LLM analyses for maximum coverage
-
----
-
 **Legal:** All techniques are for authorized testing only (your own lab, CPENT exam ranges, or written permission). Unauthorized use is illegal.
