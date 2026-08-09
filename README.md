@@ -132,4 +132,4 @@ A comprehensive, modular CPENT reference built from personal notes, official EC-
 
 ---
 
-**Legal:** All techniques are for authorized testing only (your own lab, CPENT exam ranges, or written permission). Unauthorized use is illegal.
+**Legal:** All techniques are for authorized testing only (your own lab, CPENT exam ranges, or written permission). Unauthorized use is illegal. 
