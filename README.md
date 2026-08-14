@@ -49,6 +49,7 @@ A comprehensive, modular CPENT reference built from personal notes, official EC-
 | 16 | [CTF & Exam Scenarios](16-CTF-AND-EXAM-SCENARIOS.md) | Attack chains, decision trees, objective-driven workflows |
 | 17 | [Tips & Exam Strategy](17-TIPS-AND-EXAM-STRATEGY.md) | Time management, evidence, common pitfalls, survival guide |
 | 18 | [Tools & Techniques Map](18-TOOLS-AND-TECHNIQUES-MAP.md) | Quick lookup: technique → primary tool → alternatives |
+| 20 | [Attacks & Techniques](20-ATTACKS-AND-TECHNIQUES.md) | 126 red-team attacks: what → how → goal → exploitation |
 
 ---
 
